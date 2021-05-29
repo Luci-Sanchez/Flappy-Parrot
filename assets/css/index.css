@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  text-align: center;
+  background-image: url("../img/tropical.jpg");
+  background-size: auto;
+}
+
+.game-intro p {
+  font-size: 25px;
+  font-family: "Indie Flower", cursive;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: white;
+  text-shadow: 1px 1px white, -1px -1px #333;
+}
+
+.logo {
+  font-size: 45px;
+  font-family: "ZCOOL KuaiLe", cursive;
+  color: white;
+  margin: 21px 0;
+  text-shadow: 1px 1px white, -1px -1px #333;
+}

@@ -1,0 +1,6 @@
+const KEY_FLY = 32
+
+const PIPES_FRAMES = 150
+const SPEED_INCREMENT_FRAMES = 480
+const GRAVITY = 0.5
+const MOVEMENT_FRAMES = 10
